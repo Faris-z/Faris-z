@@ -32,5 +32,6 @@ Hit prediction on 89,740 Spotify tracks with 6 engineered audio features. Tuned 
 
 ## Contact
 
-- LinkedIn: TODO
-- Email: TODO
+- LinkedIn: https://www.linkedin.com/in/faris-alzahrani-dev
+- Email: fys.alzahrani@gmail.com
+  
