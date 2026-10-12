@@ -1,6 +1,6 @@
 # Hi, I'm Faris Alzahrani
 
-Computer Science student at King Abdulaziz University in Jeddah, Saudi Arabia (graduating December 2026), looking for an AI/ML engineering internship.
+Computer Science student at King Abdulaziz University in Jeddah, Saudi Arabia (graduating December 2026).
 
 I like taking a model through the whole workflow, from raw data to something reproducible: preprocessing, feature engineering, training, honest evaluation and deployment.
 
