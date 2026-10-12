@@ -22,7 +22,7 @@ I like taking a model through the whole workflow, from raw data to something rep
 ## Projects
 
 ### [energy-forecasting](https://github.com/Faris-z/energy-forecasting)
-Hourly household energy forecasting on the UCI dataset (2M+ rows). Compares XGBoost, LightGBM, CatBoost, an LSTM and an ensemble against ARIMA and Prophet baselines, using 51 engineered features (lags, rolling stats, Fourier terms). Optuna tuning with walk-forward RMSE, MLflow tracking, Docker. Results: TODO, pending fixes to the evaluation setup documented in the README.
+Hourly household energy forecasting on the UCI dataset (2M+ rows). Compares XGBoost, LightGBM, CatBoost, an LSTM and an ensemble against ARIMA and Prophet baselines, using 52 engineered features (lags, rolling stats, Fourier terms). Optuna tuning with walk-forward RMSE, MLflow tracking, Docker. Results: TODO, pending fixes to the evaluation setup documented in the README.
 
 ### [pneumonia-xray-detector](https://github.com/Faris-z/pneumonia-xray-detector)
 Fine-tuned EfficientNet-B4 (PyTorch, transfer learning) to classify chest X-rays as Normal or Pneumonia. On the 624-image test set: 94.71% accuracy and 0.958 F1 (from a 1-epoch run; details and caveats in the README).
